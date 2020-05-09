@@ -18,6 +18,7 @@ body {
   background-color: #ffffff;
   position: relative;
   overflow-x: hidden;
+  background-image: url("../images/image_1.jpg");
 }
 
 a {
