@@ -20,7 +20,6 @@ body {
   overflow-x: hidden;
   background-image: url("../images/image_1.jpg");
   background-position: center;
-  background-size: cover;
 }
 
 a {
