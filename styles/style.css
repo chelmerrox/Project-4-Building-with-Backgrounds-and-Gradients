@@ -27,4 +27,5 @@ a {
 main {
   min-height: 1500px;
   background-color: #ffffff;
+  background-image: url("../images/image_1.jpg");
 }
