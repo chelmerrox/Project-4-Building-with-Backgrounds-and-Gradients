@@ -65,3 +65,7 @@ main {
 .footer-flex-item-2 {
   margin-block-start: -9px;
 }
+
+.footer-links {
+  color: #0088cc;
+}
