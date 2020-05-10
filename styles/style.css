@@ -73,3 +73,9 @@ main {
 .footer-links:hover {
   text-decoration: #0088cc underline;
 }
+
+.footer-last-link {
+  position: relative;
+  top: 5px;
+  left: 3px;
+}
