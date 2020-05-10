@@ -69,3 +69,7 @@ main {
 .footer-links {
   color: #0088cc;
 }
+
+.footer-links:hover {
+  text-decoration: #0088cc underline;
+}
