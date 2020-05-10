@@ -97,6 +97,8 @@ nav {
   grid-template-rows: 1fr;
   grid-template-columns: repeat(9, 1fr);
   margin: 0 100px;
+  position: relative;
+  top: 40px;
 }
 
 /* Images container styles */
