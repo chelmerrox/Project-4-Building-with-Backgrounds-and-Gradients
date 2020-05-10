@@ -32,3 +32,9 @@ main {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+/* Images container styles */
+.images-container {
+  display: flex;
+  justify-content: space-between;
+}
