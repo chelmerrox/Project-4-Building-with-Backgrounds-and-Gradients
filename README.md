@@ -13,6 +13,8 @@ This is an assigned project where I have to replicate/clone the <a href="https:/
 
 ## Live Demo
 
+[Live demo](https://raw.githack.com/chelmerrox/Project-4-Building-with-Backgrounds-and-Gradients/project-draft/index.html)
+
 ## Author
 
 👤 **Losalini Rokocakau**
