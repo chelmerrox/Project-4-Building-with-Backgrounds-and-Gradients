@@ -46,3 +46,9 @@ main {
 .image-4 {
   width: 315px;
 }
+
+ /* Footer container styles */
+ footer {
+  display: flex;
+  justify-content: space-around;
+}
