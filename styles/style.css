@@ -37,4 +37,5 @@ main {
 .images-container {
   display: flex;
   justify-content: space-between;
+  margin-top: 3px;
 }
