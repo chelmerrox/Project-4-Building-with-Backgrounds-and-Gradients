@@ -100,6 +100,7 @@ nav {
   position: relative;
   top: 40px;
   background-color: #525151;
+  border-radius: 5px 5px 5px 5px;
 }
 
 /* Images container styles */
