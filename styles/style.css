@@ -145,6 +145,12 @@ nav {
   border-radius: 5px 5px 5px 5px;
 }
 
+form {
+  position: relative;
+  bottom: 15px;
+  left: 6px;
+}
+
 /* Texts container styles */
 .texts-container {
   margin-top: 1050px;
