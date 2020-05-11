@@ -143,6 +143,7 @@ nav {
   top: 980px;
   background-color: #525151;
   border-radius: 5px 5px 5px 5px;
+  background-image: linear-gradient(#6d6969 50%, #5e5b5b 25%, #4d4c4c 24%, #777474);
 }
 
 form {
