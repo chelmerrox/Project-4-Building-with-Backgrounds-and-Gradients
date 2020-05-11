@@ -153,6 +153,10 @@ nav {
   color: #ffffff;
 }
 
+.texts-container-item-1 {
+  font-size: 50px;
+}
+
 /* Images container styles */
 .images-container {
   display: flex;
