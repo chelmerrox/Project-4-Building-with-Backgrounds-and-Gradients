@@ -151,6 +151,13 @@ form {
   left: 6px;
 }
 
+/* Search/Magnifying glass icon */
+i {
+  position: relative;
+  top: 29px;
+  height: 3px;
+}
+
 input {
   background-color: #525151;
   padding: 3px;
