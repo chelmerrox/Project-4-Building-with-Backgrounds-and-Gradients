@@ -49,6 +49,7 @@ main {
 .nav-grid-item-2 {
   grid-column-start: 2;
   grid-column-end: 3;
+  border-left: 1px solid rgb(117, 116, 116);
 }
 
 .nav-grid-item-3 {
