@@ -25,7 +25,7 @@ a {
 }
 
 main {
-  max-height: 1500px;
+  min-height: 1500px;
   background-color: #ffffff;
   background-image: url("../images/image_1.jpg");
   background-position: center;
