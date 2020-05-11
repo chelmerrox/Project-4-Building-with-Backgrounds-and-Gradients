@@ -151,6 +151,11 @@ form {
   left: 6px;
 }
 
+input {
+  background-color: #525151;
+  padding: 3px;
+}
+
 /* Texts container styles */
 .texts-container {
   margin-top: 1050px;
