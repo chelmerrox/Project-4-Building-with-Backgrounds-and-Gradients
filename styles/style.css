@@ -50,6 +50,9 @@ svg {
   width: 25px;
   height: 25px;
   fill: #ebe8e8;
+  position: relative;
+  top: 10px;
+  left: 50px;
 }
 
 .nav-grid-item-2 {
