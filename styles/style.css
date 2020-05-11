@@ -161,6 +161,10 @@ nav {
   font-size: 24px;
 }
 
+.texts-container-item-3 {
+  font-size: 18.5px;
+}
+
 /* Images container styles */
 .images-container {
   display: flex;
