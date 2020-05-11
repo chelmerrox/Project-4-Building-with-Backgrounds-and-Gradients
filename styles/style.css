@@ -142,6 +142,13 @@ nav {
   border-radius: 5px 5px 5px 5px;
 }
 
+/* Texts container styles*/
+.texts-container {
+  margin-top: 1000px;
+  text-align: center;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+}
+
 /* Images container styles */
 .images-container {
   display: flex;
