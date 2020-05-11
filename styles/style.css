@@ -32,6 +32,7 @@ main {
   background-size: cover;
   background-repeat: no-repeat;
   cursor: pointer;
+  margin-top: -850px;
 }
 
 /* Styles for navbar */
