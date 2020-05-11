@@ -46,6 +46,11 @@ main {
   background-size: 20px; */
 }
 
+svg {
+  width: 25px;
+  height: 25px;
+}
+
 .nav-grid-item-2 {
   grid-column-start: 2;
   grid-column-end: 3;
