@@ -149,6 +149,10 @@ nav {
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
 
+.texts-container-items {
+  color: #ffffff;
+}
+
 /* Images container styles */
 .images-container {
   display: flex;
