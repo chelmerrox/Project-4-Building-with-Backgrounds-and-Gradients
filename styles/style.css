@@ -138,7 +138,7 @@ nav {
   grid-template-columns: repeat(9, 1fr);
   margin: 0 100px;
   position: relative;
-  top: 40px;
+  top: 980px;
   background-color: #525151;
   border-radius: 5px 5px 5px 5px;
 }
