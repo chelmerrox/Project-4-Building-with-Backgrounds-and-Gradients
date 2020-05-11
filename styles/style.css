@@ -166,6 +166,10 @@ nav {
   font-size: 18.5px;
 }
 
+.texts-item-3:hover {
+  text-decoration: #ffffff underline;
+}
+
 #play-icon {
   position: relative;
   top: 5px
