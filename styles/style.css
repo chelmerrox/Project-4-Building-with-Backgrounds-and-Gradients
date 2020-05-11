@@ -154,6 +154,7 @@ form {
 input {
   background-color: #525151;
   padding: 3px;
+  box-shadow: none;
 }
 
 /* Texts container styles */
