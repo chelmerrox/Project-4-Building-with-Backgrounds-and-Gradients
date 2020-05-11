@@ -125,17 +125,8 @@ svg {
 .nav-grid-item-6,
 .nav-grid-item-7,
 .nav-grid-item-8 {
-  border-right: 1px solid rgb(117, 116, 116);
-}
-
-.nav-grid-item-2,
-.nav-grid-item-3,
-.nav-grid-item-4,
-.nav-grid-item-5,
-.nav-grid-item-6,
-.nav-grid-item-7,
-.nav-grid-item-8 {
   text-align: center;
+  border-right: 1px solid rgb(117, 116, 116);
 }
 
 nav {
