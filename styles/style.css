@@ -42,6 +42,7 @@ main {
 .nav-grid-item-1 {
   grid-column-start: 1;
   grid-column-end: 2;
+  position: relative;
 }
 
 /* Apple logo styles */
@@ -49,8 +50,8 @@ svg {
   width: 25px;
   height: 20px;
   fill: #ebe8e8;
-  position: relative;
-  top: 1px;
+  position: absolute;
+  top: -10.5px;
   left: 50px;
 }
 
