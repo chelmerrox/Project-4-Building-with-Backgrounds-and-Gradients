@@ -139,7 +139,7 @@ nav {
   grid-template-columns: repeat(9, 1fr);
   align-items: center;
   margin: 0 100px;
-  padding: 0.01px;
+  padding: 10px;
   position: relative;
   top: 980px;
   background-color: #525151;
