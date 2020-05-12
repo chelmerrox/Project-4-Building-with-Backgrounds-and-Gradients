@@ -1,8 +1,10 @@
 # Project 4 - Building with Backgrounds and Gradients
 
-This is an assigned project where I have to replicate/clone the <a href="https://web.archive.org/web/20140301004610/http://www.apple.com/">Apple web page.</a>
+This is an assigned solo project where I have to replicate/clone the <a href="https://web.archive.org/web/20140301004610/http://www.apple.com/">Apple web page.</a>
 
 ## Preview of web page
+
+![Web page preview](images/webpage_preview.PNG)
 
 ## Built With
 
