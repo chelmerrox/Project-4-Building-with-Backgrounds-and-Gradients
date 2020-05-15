@@ -98,15 +98,8 @@ svg {
   left: 12px;
 }
 
-.nav-grid-item-1,
-.nav-grid-item-2,
-.nav-grid-item-3,
-.nav-grid-item-4,
-.nav-grid-item-5,
-.nav-grid-item-6,
-.nav-grid-item-7,
-.nav-grid-item-8,
-.nav-grid-item-9 {
+/* For nav-grid-item-1 to nav-grid-item-9*/
+.nav-grid-items {
   grid-row-start: 2;
   grid-row-end: 2;
 }
