@@ -100,7 +100,7 @@ svg {
 
 /* For nav-grid-item-1 to nav-grid-item-9*/
 .nav-grid-items {
-  grid-row-start: 2;
+  grid-row-start: 1;
   grid-row-end: 2;
 }
 
