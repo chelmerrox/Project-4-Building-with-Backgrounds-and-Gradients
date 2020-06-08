@@ -17,6 +17,28 @@ This is an assigned solo project where I have to replicate/clone the <a href="ht
 
 [Live demo](https://raw.githack.com/chelmerrox/Project-4-Building-with-Backgrounds-and-Gradients/project-draft/index.html)
 
+## Getting Started
+
+To get a local copy up and running follow the simple steps outlined below.
+
+## How To Use 🔧
+
+From your command line, do the folowing steps below:
+​
+1. Clone the projects' repository into your machine.
+
+```bash
+# Clone this repository
+$ git clone git@github.com:chelmerrox/Project-4-Building-with-Backgrounds-and-Gradients.git
+
+```
+2. Change directory/Go into the repository with the command below.
+
+```bash
+$ cd Project-4-Building-with-Backgrounds-and-Gradients
+
+```
+
 ## Author
 
 👤 **Losalini Rokocakau**
